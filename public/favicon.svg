@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Background Badge -->
+  <circle cx="256" cy="256" r="248" fill="#166534" stroke="#22c55e" stroke-width="12" />
+  <circle cx="256" cy="256" r="226" fill="none" stroke="#f0fdf4" stroke-width="4" stroke-opacity="0.25" />
+
+  <!-- Horns -->
+  <polygon points="160,190 120,110 175,140" fill="#e2b276" stroke="#b48250" stroke-width="3" stroke-linejoin="round" />
+  <polygon points="352,190 392,110 337,140" fill="#e2b276" stroke="#b48250" stroke-width="3" stroke-linejoin="round" />
+
+  <!-- Ears -->
+  <ellipse cx="125" cy="210" rx="60" ry="35" transform="rotate(-15 125 210)" fill="#ffffff" stroke="#cbd5e1" stroke-width="3" />
+  <ellipse cx="125" cy="210" rx="40" ry="20" transform="rotate(-15 125 210)" fill="#fecdd3" />
+  
+  <ellipse cx="387" cy="210" rx="60" ry="35" transform="rotate(15 387 210)" fill="#ffffff" stroke="#cbd5e1" stroke-width="3" />
+  <ellipse cx="387" cy="210" rx="40" ry="20" transform="rotate(15 387 210)" fill="#fecdd3" />
+
+  <!-- Ear Tag (Yellow) on left ear -->
+  <polygon points="110,225 135,225 140,265 122,277 105,265" fill="#facc15" stroke="#ca8a04" stroke-width="2" />
+  <circle cx="122.5" cy="235" r="4.5" fill="#854d0e" />
+
+  <!-- Head Base -->
+  <ellipse cx="256" cy="245" rx="111" ry="105" fill="#ffffff" stroke="#e2e8f0" stroke-width="4" />
+  
+  <!-- Right Eye Black Patch -->
+  <path d="M 256,150 Q 340,160 360,220 Q 367,280 320,290 Q 270,290 256,220 Z" fill="#1e293b" />
+
+  <!-- Forehead Tuft -->
+  <ellipse cx="256" cy="148" rx="26" ry="18" fill="#ffffff" />
+
+  <!-- Left Eye -->
+  <ellipse cx="200" cy="238" rx="15" ry="17" fill="#0f172a" />
+  <circle cx="195" cy="232" r="5" fill="#ffffff" />
+
+  <!-- Right Eye (Inside Black Patch) -->
+  <ellipse cx="312" cy="238" rx="15" ry="17" fill="#ffffff" />
+  <ellipse cx="312" cy="238" rx="11" ry="13" fill="#0f172a" />
+  <circle cx="308" cy="233" r="4" fill="#ffffff" />
+
+  <!-- Snout / Muzzle -->
+  <ellipse cx="256" cy="332" rx="96" ry="62" fill="#fecdd3" stroke="#f4a3af" stroke-width="4" />
+
+  <!-- Nostrils -->
+  <ellipse cx="218" cy="330" rx="14" ry="15" fill="#e17087" />
+  <ellipse cx="294" cy="330" rx="14" ry="15" fill="#e17087" />
+
+  <!-- Smile -->
+  <path d="M 236 355 Q 256 375 276 355" fill="none" stroke="#e17087" stroke-width="5" stroke-linecap="round" />
+</svg>
